@@ -10,14 +10,14 @@ Run the Python scripts first. In Power BI Desktop, choose Get data → Text/CSV 
 - customer_summary.csv — customer sales, orders and average order value
 - Optional HubSpot exports: hubspot_contacts.csv and hubspot_deals.csv
 
-Generated data and CRM exports are intentionally excluded from GitHub.
 
-## Suggested report pages
+
+# Suggested report pages
 
 1. **Executive Overview:** sales, profit, profit margin, orders and customers; monthly sales/profit; category and regional performance.
 2. **Product & Profitability:** profit by sub-category, sales-vs-profit scatter plot, discount-vs-profit analysis and loss-making items.
 3. **Customer & Marketing:** sales by segment, average order value and repeat-order patterns.
-4. **CRM Pipeline (optional):** deal amount by stage, deal trend and owner-level pipeline. Confirm your HubSpot portal's stage definitions first.
+
 
 ## Suggested DAX measures
 
